@@ -36,3 +36,5 @@ wcf - wechat forwarder
 * 方法3，是目前最好的，不是吗? MS1~4 它们之间各司其职，相处融洽。
 
 于是 wcf 就这么出来了，它的角色就是 MS4
+
+![alt screenshot](https://raw.githubusercontent.com/hsiaosiyuan/wcf/master/screenshot.gif)
